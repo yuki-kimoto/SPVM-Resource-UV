@@ -2,6 +2,7 @@
 # MIT License
 
 class Resource::UV {
+  
   version "0.001";
   
   static method my_method : void () {
