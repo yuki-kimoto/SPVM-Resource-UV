@@ -156,5 +156,4 @@ README.md
 t/basic.t
 t/lib/SPVM/TestCase/Resource/UV.build
 t/lib/SPVM/TestCase/Resource/UV.c
-t/lib/SPVM/TestCase/Resource/UV.so
 t/lib/SPVM/TestCase/Resource/UV.spvm
