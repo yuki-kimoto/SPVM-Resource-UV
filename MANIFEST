@@ -1,0 +1,24 @@
+.gitattributes
+.github/workflows/linux-ubuntu-latest-asan.yml
+.github/workflows/linux-ubuntu-latest-perls.yml
+.github/workflows/linux-ubuntu-latest.yml
+.github/workflows/macos-latest.yml
+.github/workflows/windows-latest-msvc-debug.yml
+.github/workflows/windows-latest-msvc.yml
+.github/workflows/windows-latest.yml
+.gitignore
+Changes
+lib/SPVM/Resource/UV.build
+lib/SPVM/Resource/UV.native/include/.gitkeep
+lib/SPVM/Resource/UV.native/src/.gitkeep
+lib/SPVM/Resource/UV.pm
+lib/SPVM/Resource/UV.spvm
+LICENSE
+Makefile.PL
+MANIFEST			This list of files
+MANIFEST.SKIP
+README.md
+t/basic.t
+t/lib/SPVM/TestCase/Resource/UV.build
+t/lib/SPVM/TestCase/Resource/UV.c
+t/lib/SPVM/TestCase/Resource/UV.spvm
